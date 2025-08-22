@@ -2,3 +2,4 @@ accessWidener v2 named
 # Comments like this are supported, as well as at the end of the line
 accessible field net/minecraft/client/option/KeyBinding boundKey Lnet/minecraft/client/util/InputUtil$Key;
 accessible field net/minecraft/client/gui/screen/ingame/HandledScreen handler Lnet/minecraft/screen/ScreenHandler;
+accessible field net/minecraft/entity/player/PlayerInventory selectedSlot I
